@@ -1,0 +1,24 @@
+Title: HCS12 Microcontroller: Bit Manipulation and I/O
+
+Description:
+In this program the LED port is manipulated. When the user does the following the program responds receptively:
+
+(a) User presses R: The program should load a random value.
+
+(b) User presses C: The program should clear bits #3 and #5 (leaving other bits alone).
+
+(c) User presses S: The program should set bits #4 and #7 (leaving other bits alone).
+
+(d) User presses T: The program should toggle bits #4 and #7 (leaving other bits alone).
+
+(e) User presses L: The program should shift the bits left by 1 position
+
+(f) User presses A: The program should arithmetic shift right the bits by 1 positionHCS12 Assembly language was used
+
+**Attachments**
+
+Filename: ECE505_Task2.docx
+Caption: (None provided)
+
+
+

@@ -1,0 +1,15 @@
+Title: Technical paper: 3-Axis MEMS Accelerometer with Active Suspension using MATLAB Simulink
+
+Description:
+(None provided)
+
+**Attachments**
+
+Filename: Final_Project.docx
+Caption: (None provided)
+
+Filename: FMEA Rankings.doc
+Caption: DFMEA
+
+
+

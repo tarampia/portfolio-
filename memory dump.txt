@@ -1,0 +1,14 @@
+Title: HCS12 Microcontroller: Memory Dump
+
+Description:
+For this memory dump program we were given a set of data in consecutive memory locations. The goal was to print this memory in hexadecimal. The program prints a value, wait for the user to press the space bar and then print the next value
+and so on. The program ignores all the keystrokes except the space bar. The program also maintains a counter. The counter is initially zero, and incremented after each output. 
+HCS12 Assembly language was used
+
+**Attachments**
+
+Filename: ECE505_Task1.docx
+Caption: (None provided)
+
+
+

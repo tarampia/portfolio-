@@ -1,0 +1,25 @@
+Title: HCS12 Microcontroller: Clock - Timer - External Interrupts
+
+Description:
+The program begins by using a timer interrupt to design a simple
+digital clock.  This clock will count only minutes and seconds, and start at 00:00 every time your program starts. The
+display on the screen should read according to the format mm:ssThe displays updates once every second. There is also a ticking sound on the speaker once every second.
+The external interrupts on PORT H are used to control the
+digital clock.  The clock program becomes a "stopwatch". One switch on PORT H is used
+for starting the clock (start button) and one for stopping the clock (stop
+button).  When the start button is
+pressed, it will reset the clock (set the clock to 00:00) and enable the timer
+to start counting. On the other hand, when the stop button is pressed, it will
+disable the timer (stop the clock and stop display updates). A third button on
+PORT H is used to toggle "silent mode". Pressing this button makes
+the speaker go silent (no clicking sound) and pressing it again restores the
+sound. All button presses are handled using external
+interrupts. HCS12 Assembly language is used
+
+**Attachments**
+
+Filename: ECE505_Task4.docx
+Caption: (None provided)
+
+
+

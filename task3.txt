@@ -1,0 +1,21 @@
+Title: HCS12 Microcontroller: Bit Manipulation – Pushbutton Switch Input – DIP switch input – LED output.
+
+Description:
+This program will receives inputs from pushbuttons. The board has four push buttons on PORTH that are used: PTH0, PTH1, PTH2 and PTH3. The program should
+manipulate the value on the LED’s based on user input. The program does the
+following depending on the user input:i. User presses PTH3: The program loads a
+“random” value to the LED’s on PORTB.ii. User presses PTH2: The program logically
+shifts left the bits on PORTB by one bit position.iii. User presses PTH1: The program arithmetic shifts right the bits by one position.iv. User presses PTH0: The program causes the four leftmost bits
+on PTH as set by the DIP switches in the red
+DIP switch bank to be written to the four rightmost bits of PORTB (LED's). (PH7-4 are written to PORTB3-0 resp.) The
+upper 4-bits of PORTB will be cleared.Note that the program should pause for
+approximately 200 milliseconds between checking user inputs. This is for
+debounce delay.
+
+**Attachments**
+
+Filename: ECE505_Task3.docx
+Caption: (None provided)
+
+
+

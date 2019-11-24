@@ -1,0 +1,18 @@
+Title: ISC: Intelligent Systems Club Rover
+
+Description:
+For this project we were given the project to build a rover that uses light sensors to move about its environment. An Arduino Uno microprocessor was used to control the vehicle.
+
+**Attachments**
+
+Filename: IMG_3570.JPG
+Caption: (None provided)
+
+Filename: ISC Rover Aruino code.docx
+Caption: (None provided)
+
+Filename: IMG_3569.JPG
+Caption: (None provided)
+
+
+
